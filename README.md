@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-Sentiment Analysis using Logestic Regression
+Sentiment Analysis using Python (Logestic Regression)
 
 ______________________________________________________________
 
